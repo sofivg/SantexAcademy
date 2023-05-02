@@ -165,7 +165,8 @@ article {
 
 article img {
     border-radius: 0px 50px 30px 15px;
-    width: 50vh;
+    width: 30vh;
+    text-align: center;
 }
 
 article h4 {
@@ -174,7 +175,8 @@ article h4 {
 }
 
 .img-art {
-    margin: 0% 5%;
+    margin: 10% 5%;
+
 }
 
 .art {
