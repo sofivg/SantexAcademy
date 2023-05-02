@@ -1,3 +1,4 @@
+// Contador
 var count1 = 0;
 var count2 = 0;
 var count3 = 0;
