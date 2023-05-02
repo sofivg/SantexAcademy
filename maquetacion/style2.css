@@ -80,6 +80,7 @@ h1 {
 main {
     background-image: url(https://technologywithpurpose.org/wp-content/uploads/2022/11/twp-home.jpg);
     background-size:cover;
+    width:100%;
     background-attachment: fixed;
     overflow: scroll;
 }
